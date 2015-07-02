@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>1001 Afternoons in Chicago - The Film</title>
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width">
+		<!-- some fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Kreon:300,400,700|Roboto+Condensed:300italic,400italic,400,300,700' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="css/normalize.min.css">
+		<link rel="stylesheet" href="css/main.css">
+		<style>
+			
+			.videoWrapper {
+				position: relative;
+				padding-bottom: 56.25%; /* 16:9 */
+				padding-top: 12px;
+				height: 0;
+			}
+			.videoWrapper iframe {
+				position: absolute;
+				top: 0;
+				left: 0;
+				width: 95%;
+				height: 95%;
+			}
+		
+		</style>
+
+		<script src="js/vendor/modernizr-2.6.2.min.js"></script>
+		<script type="text/javascript">var switchTo5x=true;</script>
+		<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+		<script type="text/javascript">stLight.options({publisher: "ur-31c51731-9222-2faa-f316-ca00dc98fe2", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+	</head>
+	<body id="call-for" style="">
+		<!--[if lt IE 7]>
+			<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+		<![endif]-->
+		<div id="sharePop" class="toggleShare popable" style="display:none;">
+			<!-- <span class='st_sharethis' displayText='ShareThis'></span> -->
+			<div>
+				<h4>Help Spread the Word</h4>
+				<span class='st_facebook' displayText='Facebook'></span>
+				<span class='st_googleplus' displayText='Google +'></span>
+				<span class='st_twitter' displayText='Tweet'></span>
+			</div>
+		</div>
+
+		<div id="video" class="popable" style="display:none;text-align:center;">
+			
+			<iframe style="margin-top:5%;" src="//player.vimeo.com/video/79164578" width="85%" height="85%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>	
+		</div>
+		<nav class="clearfix" style="background:#1d1c19;">
+			<ul id="navItems">
+				<li><a href="index.html"><img id="bug" src="img/1001logobug.png" alt=""></a></li>
+				<li><a href="index.html#theIdea">The Idea</a></li>
+				<li><a href="index.html#theFilm">The Film</a></li>
+				<li><a href="index.html#getInvolved">Get Involved</a></li>
+			</ul>
+			<div id="social" class="toggleShare" style="display:none;">
+				<span id="shareText">Share</span> <img src="img/share_icon.png" alt="">
+			</div>
+		</nav>
+		<div id="theIdea" class="content" name="" style="background:transparent;">
+			<div class="fixedImage unfixMe">
+
+			</div>
+			<div class="leftContentPane">
+				<h1><span class="small">Call For</span><span class="large">Artists</span></h1>
+				<p>
+					Ben Hecht had a dream where hard journalism and fiction joined to record the stories of everyone: the scoundrel, the criminal, the hero, the bum, the guilty, the innocent, the worker, the dreamer, the hopeless, the believer, and even the artist. In writing <a href="http://books.google.com/books?id=O0MLAAAAIAAJ&pg=PA285&lpg=PA285&dq=grass+figures+by+ben+hecht&source=bl&ots=5tNwXp12KN&sig=r0L_x5nUOyg0s7Cpg2FkpnHWFX8&hl=en&sa=X&ei=zAmuUp7wC8jyqQHPmIDYAw&ved=0CFIQ6AEwBQ#v=onepage&q=grass%20figures%20by%20ben%20hecht&f=false" target="_BLANK"><i>1001 Afternoons in Chicago</i></a>, Hecht sought to capture the authentic city by incorporating all Chicago’s faces and personalities.
+				</p>
+				<p>
+					Half King Productions wishes to do the same and seeks the works and visions of Chicago's digital artists, animators, and illustrators to help translate Ben Hecht's stories into a new reality: <i>1001 Afternoons in Chicago: The Film</i>. 
+				</p>
+				<p>
+					By viewing the clips below, you will see a rough cut edit of sequences from the film. The clips do not have any color correction, grading, or audio work; the final film will look and sound significantly different and better. 
+				</p>
+				<p>
+					A red box indicates the sequence where we would like to see animation. Each clip has been given a general direction of tone or mood to follow as a guideline. The art and vision is still completely up to you!
+					<!-- So, if you feel inspired by Hecht's writing or the sequence itself, feel free to dream, play, and create any kind of animation! --> 
+				</p>
+				<p>
+					After you've created a sequence and uploaded your sequence to YouTube with the heading of the clip (ex. Call for Artists: Sequence 1), our production team will see if we can incorporate your sequence into the final film. 
+				</p>
+				<p>
+				<h1 style="margin-top:60px;"><span class="small seq">Sequence 1</span></h1>
+				<p class="call-lead">
+					General Tone: the endlessly shifting and replicating faces of the city, seeing yourself everywhere and nowhere, exciting but disconcerting at the same time.
+				</p>
+				<div class="videoWrapper">
+					<iframe src="//player.vimeo.com/video/82968560" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+				</div>
+				
+					
+				
+				<hr>
+				</p>
+				<p>
+				<h1 style="margin-top:60px;"><span class="small seq">Sequence 2</span></h1>
+				<p class="call-lead">
+					General Tone: the distortion of the Carnival mirror, funny, beautiful and frightening.
+				</p>
+				<div class="videoWrapper">
+					<iframe src="//player.vimeo.com/video/82968561" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+				</div>
+				
+					
+				
+				<hr>
+				</p>
+				<p>
+				<h1 style="margin-top:60px;"><span class="small seq">Sequence 3</span></h1>
+				<p class="call-lead">
+					General Tone: wild energy and eccentricity. Sklarz is a man soaring on the heights of joy before jumping off the cliff. 
+				</p>
+				<div class="videoWrapper">
+					<iframe src="//player.vimeo.com/video/82973753" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+				</div>
+				
+					
+				
+				<hr>
+				</p>
+				<!-- <p>
+
+				After you've created a sequence and uploaded your sequence to YouTube with the heading of the clip (ex. Call for Artists: Sequence 1), our production team will see if we can incorporate the sequence into the film. Note: Artists will need to legally release their work to the film.
+				</p> -->
+				<p>
+					Besides being broadcasted on television, the film will be submitted to several film festivals, including South by Southwest and Chicago International Film Festival. Any contributions will be credited, even if your sequence does not make it to the film. It's our way of saying thank you for the support.
+				</p>
+				<p>
+					Note: Artists will need to legally release their work to the film.
+				</p>
+
+				<!-- <p>
+				Check out <a href="index.html">1001ChicagoFilm.com</a> for more details on the film and who's involved! Contact <a href="mailto:1001ChicagoFilm@gmail.com">1001ChicagoFilm@gmail.com</a> for any additional inquiries.
+				</p> -->
+			</div>
+		</div>
+		
+		<footer>
+			Half King Productions &copy; 2013
+		</footer>
+
+
+		<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>-->
+		<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
+
+		<!--<script src="js/main.js"></script>
+		<script src="js/pop.js"></script>-->
+		<script>
+			var _gaq=[['_setAccount','UA-46269427-1'],['_trackPageview']];
+			(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+			g.src='//www.google-analytics.com/ga.js';
+			s.parentNode.insertBefore(g,s)}(document,'script'));
+		</script>
+	</body>
+</html>
