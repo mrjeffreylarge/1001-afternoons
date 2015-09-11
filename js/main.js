@@ -23,9 +23,9 @@ $("document").ready(function () {
 		social		  = $("#social"),
 		speadTheWord  = $("#speadTheWord"),
 		hero 		  = $("#heroUnit"),
-		panelOne 	  = $("#theIdea"),
-		panelTwo 	  = $("#theFilm"),
-		panelThree 	  = $("#getInvolved"),
+		panelOne 	  = $("#theFilm"),
+		panelTwo 	  = $("#theArtists"),
+		panelThree 	  = $("#screeningsContact"),
 		sharePop	  = $("#sharePop"),
 		toggleShare   = $(".toggleShare");
 
@@ -45,19 +45,19 @@ $("document").ready(function () {
 	//dem functions
 	function initHero() {
 		//check to see if we are in mobile land
-		if(!Page.isMobile()) {
-			//make sure to reset this ! ;)
-			windowHeight  = win.height();
-			var newHeight = windowHeight - navHeight;
-			hero.css({"height" : newHeight + "px"});
-			buckets.css({"marginTop" : "-" + 266 + "px"}); //hardcode fornow...
-		}
-		else if(Page.isMobile()) {
-			// hero.css({"height" : "auto"});
-		}
-		else {
-			//wut
-		}
+		// if(!Page.isMobile()) {
+		// 	//make sure to reset this ! ;)
+		// 	windowHeight  = win.height();
+		// 	var newHeight = windowHeight - navHeight;
+		// 	hero.css({"height" : newHeight + "px"});
+		// 	buckets.css({"marginTop" : "-" + 266 + "px"}); //hardcode fornow...
+		// }
+		// else if(Page.isMobile()) {
+		// 	// hero.css({"height" : "auto"});
+		// }
+		// else {
+		// 	//wut
+		// }
 		
 	}
 
@@ -90,14 +90,14 @@ $("document").ready(function () {
 			//make that shit fixed
 			
 			if(body.scrollTop() >= (panelOne.offset().top + panelOne.innerHeight())) {
-				$("#theIdea .fixedImage").removeClass("fixMe").addClass("unfixMe");
+				$("#theFilm .fixedImage").removeClass("fixMe").addClass("unfixMe");
 			}
 			else {
-				$("#theIdea .fixedImage").removeClass("unfixMe").addClass("fixMe");
+				$("#theFilm .fixedImage").removeClass("unfixMe").addClass("fixMe");
 			}
 		}
 		if(body.scrollTop() < (panelOne.offset().top)) {
-			$("#theIdea .fixedImage").removeClass("fixMe").addClass("unfixMe");
+			$("#theFilm .fixedImage").removeClass("fixMe").addClass("unfixMe");
 		}
 
 	}
@@ -106,14 +106,14 @@ $("document").ready(function () {
 			//make that shit fixed
 			
 			if(body.scrollTop() >= (panelTwo.offset().top + panelTwo.innerHeight())) {
-				$("#theFilm .fixedImage").removeClass("fixMe").addClass("unfixMe");
+				$("#theArtists .fixedImage").removeClass("fixMe").addClass("unfixMe");
 			}
 			else {
-				$("#theFilm .fixedImage").removeClass("unfixMe").addClass("fixMe");
+				$("#theArtists .fixedImage").removeClass("unfixMe").addClass("fixMe");
 			}
 		}
 		if(body.scrollTop() < (panelTwo.offset().top)) {
-			$("#theFilm .fixedImage").removeClass("fixMe").addClass("unfixMe");
+			$("#theArtists .fixedImage").removeClass("fixMe").addClass("unfixMe");
 		}
 
 	}
@@ -122,14 +122,14 @@ $("document").ready(function () {
 			//make that shit fixed
 			
 			if(body.scrollTop() >= (panelThree.offset().top + panelThree.innerHeight())) {
-				$("#getInvolved .fixedImage").removeClass("fixMe").addClass("unfixMe");
+				$("#screeningsContact .fixedImage").removeClass("fixMe").addClass("unfixMe");
 			}
 			else {
-				$("#getInvolved .fixedImage").removeClass("unfixMe").addClass("fixMe");
+				$("#screeningsContact .fixedImage").removeClass("unfixMe").addClass("fixMe");
 			}
 		}
 		if(body.scrollTop() < (panelThree.offset().top)) {
-			$("#getInvolved .fixedImage").removeClass("fixMe").addClass("unfixMe");
+			$("#screeningsContact .fixedImage").removeClass("fixMe").addClass("unfixMe");
 		}
 
 	}

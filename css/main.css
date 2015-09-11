@@ -176,7 +176,7 @@ nav ul li a:visited {
 /*content*/
 #heroUnit {
 	padding-top:50px;
-	height:1000px;
+	height:700px;
 	/*background:#50b1de;*/
 	background:url(../img/herobg-new.jpg) top center no-repeat;
 	background-size: 120%;
@@ -219,7 +219,7 @@ nav ul li a:visited {
 	font-size: 14px;
 }
 
-#theFilm {
+#theArtists {
 	position: relative;
 }
 
@@ -230,6 +230,7 @@ nav ul li a:visited {
 	margin-right:70px;
 }
 #fixedBuckets {
+	margin-top: -160px;
 	z-index: 999;
 	
 }
@@ -305,13 +306,14 @@ h1 .small, h1 .large {
 .fixedImage {
 	margin-top:-25px;
 	width:100%;
-}
-#theArtists .fixedImage {
-	background:url(../img/img_hp_bkg_Idea.jpg) top center no-repeat;
-	background-size:120%;
+	height: 100%;
 }
 #theFilm .fixedImage {
 	background:url(../img/theFilm0.jpg) top center no-repeat;
+	background-size:120%;
+}
+#theArtists .fixedImage {
+	background:url(../img/img_hp_bkg_Idea.jpg) top center no-repeat;
 	background-size:120%;
 }
 #screeningsContact .fixedImage {
@@ -533,10 +535,10 @@ footer {
 		padding:0px;
 		position: static;
 	}
-	#theArtists {
+	#theFilm {
 		height:auto;
 	}
-	#theFilm {
+	#theArtists {
 		height:auto;
 	}
 
